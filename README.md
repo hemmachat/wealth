@@ -1,7 +1,7 @@
 # wealth
-Demo project for Wealth
+A Demo project for Wealth. This is far from production-ready code and still missing unit testing, functional testing which we can use in-memory hosting to do API testing and lacks of HATEOAS discoverable API which we can use Swagger.
 
-Instruction
+Instruction:
 1. Clone the project.
 2. Use VS 2017 to open "Wealth.sln".
 3. Open Package Manager Console and run a command "Update-Database" to initialise the database.
