@@ -1,5 +1,5 @@
 # wealth
-A Demo project for Wealth. This is far from production-ready code and still missing unit testing, functional testing which we can use in-memory hosting to do API testing and lacks of HATEOAS discoverable API which we can use Swagger.
+A Demo project for Wealth. This is far from production-ready code and still missing unit testing, functional testing which we can use in-memory hosting to do API testing and lacks of HATEOAS ways of discoverable API which we can use Swagger.
 
 Instruction:
 1. Clone the project.
